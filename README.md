@@ -11,7 +11,7 @@ This repository is the entire program code used to complete the real-time rainwa
 1. Clone this project:
 
    ```bash
-   git clone https://github.com/achmadfaizalawi/rainwater_quality_system.git
+   git clone https://github.com/achmadfaizalawi/rainwater-quality-system.git
 
 2. Open the project in a Arduino IDE, such as Visual Studio Code.
 
@@ -19,7 +19,7 @@ This repository is the entire program code used to complete the real-time rainwa
 We greatly appreciate contributions from the community. If you would like to contribute to this project, please open a new issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/achmadfaizalawi/rainwater_quality_system/blob/main/LICENSE). See the LICENSE file for more information.
+This project is licensed under the [MIT License](https://github.com/achmadfaizalawi/rainwater-quality-system/blob/main/LICENSE). See the LICENSE file for more information.
 
 ## Contact
 If you have any questions or would like to get in touch with me, you can send an email to achmadfaizalawi@gmail.com or visit my [GitHub profile](https://github.com/achmadfaizalawi).
