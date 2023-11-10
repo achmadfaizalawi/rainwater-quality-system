@@ -6,9 +6,6 @@ This repository is the entire program code used to complete the real-time rainwa
 2. Microcontroller, used as a regulator for the operation of the measurement system so that the system can run as desired. The programming language used is C.
 3. Internet of Things (IoT), used to send measurement data to the Internet of Things (IoT) platform in real-time. In this project, the Internet of Things (IoT) platform used is the Thingspeak platform. The language used is C.
 
-
-Translated with www.DeepL.com/Translator (free version)
-
 ## Installation
 
 1. Clone this project:
